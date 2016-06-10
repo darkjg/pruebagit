@@ -70,7 +70,8 @@ public class Ejercicio2 extends JFrame implements ActionListener {
 			}
 		}
 		}catch(java.lang.NumberFormatException p) {
-			JOptionPane.showMessageDialog(this,"no has introducido nada o has introducido letras o numeros con decimales" );
+			JOptionPane.showMessageDialog(this,"no has introducido nada o has introducido letras o numeros con decimales o otroas" );
+			
 			
 		}
 
